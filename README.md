@@ -1,2 +1,2 @@
 # HelloWorld
-This repo is for FS's intro to GitHub
+This repo is for FazlSo's intro to GitHub
